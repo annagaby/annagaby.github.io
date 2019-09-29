@@ -4696,9 +4696,6 @@ input, select, textarea {
 		position: relative;
 		}
 
-			.image.avatar:before {
-				display: none;
-			}
 
 			.image.avatar img {
 				border-radius: 100%;
